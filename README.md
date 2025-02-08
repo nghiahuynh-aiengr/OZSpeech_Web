@@ -1,3 +1,3 @@
-# VoiceCraft
+# OZSpeech
 
-VoiceCraft demo page.
+OZSpeech demo page.
